@@ -1,4 +1,4 @@
-# kalkulator-cpp
+# Kalkulator C++
 
  Learning C++. Make Kalkulator Using Statements Else If
 
